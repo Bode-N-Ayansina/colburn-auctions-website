@@ -1,8 +1,8 @@
-# Colburn Auctions — Full-Stack Auction Platform & Catalog Automation
+# Business Workflow Automation & Data Migration — Production Case Study
 
-**Real client. Real deadline. 310 lots, 1,463 photos, zero manual steps.**
+**Skills demonstrated: workflow automation (n8n/Zapier) · data migration & validation · PostgreSQL · REST API integration · Google Workspace APIs · technical documentation for non-technical users**
 
-A 40-year antique auction house needed to go from paper catalogs to a live online auction on LiveAuctioneers — website, database, photo pipeline, and platform migration — delivered by a hard auction date.
+Real client, real deadline: a 40-year auction house (Colburn Auctions) needed to go from paper catalogs to a live online auction on LiveAuctioneers — website, database, photo pipeline, and platform migration. Delivered by the auction date: 310 lots, 1,463 photos, zero manual steps.
 
 ![Pipeline Architecture](docs/colburn-pipeline-architecture.png)
 
